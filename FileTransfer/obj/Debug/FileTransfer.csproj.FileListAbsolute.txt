@@ -1,0 +1,6 @@
+c:\users\santhosekumar.s\source\repos\FileTransfer\FileTransfer\bin\Debug\FileTransfer.exe.config
+c:\users\santhosekumar.s\source\repos\FileTransfer\FileTransfer\bin\Debug\FileTransfer.exe
+c:\users\santhosekumar.s\source\repos\FileTransfer\FileTransfer\bin\Debug\FileTransfer.pdb
+c:\users\santhosekumar.s\source\repos\FileTransfer\FileTransfer\obj\Debug\FileTransfer.csproj.CoreCompileInputs.cache
+c:\users\santhosekumar.s\source\repos\FileTransfer\FileTransfer\obj\Debug\FileTransfer.exe
+c:\users\santhosekumar.s\source\repos\FileTransfer\FileTransfer\obj\Debug\FileTransfer.pdb
